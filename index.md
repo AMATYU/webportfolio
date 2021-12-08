@@ -5,19 +5,19 @@
 My Creative Work
 
 [Ripped Photo]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ripped photo.jpg?raw=true"/>
 
 ---
 [Liquid Style]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/liquid.jpg?raw=true"/>
 
 ---
 [Double Exposure]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ultraman.png?raw=true"/>
 
 ---
 [Galaxy Cat]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/galaxy cat.jpg?raw=true"/>
 
 ---
 
