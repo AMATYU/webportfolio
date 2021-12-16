@@ -8,8 +8,8 @@ My Creative Work
 <img src="images/ripped photo.jpg?raw=true"/>
 
 ---
-[Liquid Style]
-<img src="images/liquid.jpg?raw=true"/>
+[Cool Retro Collage]
+<img src="images/tiga.jpg?raw=true"/>
 
 ---
 [Double Exposure]
@@ -20,7 +20,10 @@ My Creative Work
 <img src="images/galaxy cat.jpg?raw=true"/>
 
 ---
+[3D Pop Out Effect]
+<img src="images/Kamen-Rider-Revice 3d.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
